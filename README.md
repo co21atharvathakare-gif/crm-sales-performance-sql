@@ -20,5 +20,5 @@ This project analyzes the sales pipeline of a fictitious computer hardware compa
 - **Market Segmentation:** Identified high-value sectors by calculating average deal values, allowing for better lead prioritization.
 
 ## 💡 Business Recommendations
-1. **Focus on Efficiency:** Teams in the [X] region close deals [Y] days faster; their processes should be documented and shared.
-2. **Pricing Strategy:** Certain products are being discounted by over [Z]%. Standardizing discount tiers could increase total revenue by [A]%.
+- **Double down on Entertainment Sector:** It has our highest average deal value.
+- **Standardize Discounting:** High discounts on GTK 500 are hurting margins. 
